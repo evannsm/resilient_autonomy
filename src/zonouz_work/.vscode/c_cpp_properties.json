@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/factslab-egmc/mocap_ws/install/rqt_mocap4r2_control/include/**",
+        "/home/factslab-egmc/mocap_ws/install/px4_msgs/include/**",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_robot_gt_msgs/include/**",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_optitrack_driver/include/**",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_msgs/include/**",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_marker_viz_srvs/include/**",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_control/include/**",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_control_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ros2",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
