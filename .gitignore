@@ -1,0 +1,6 @@
+build/
+install/
+**/log/
+**.vc.db
+Logger
+test_logger
