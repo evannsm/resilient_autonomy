@@ -1,6 +1,6 @@
 build/
 install/
 **/log/
-**/.vscode/browse**
+**/.vscode/*browse*
 Logger
 test_logger
