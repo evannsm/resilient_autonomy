@@ -1,0 +1,38 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/build/zonouz_work",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/install/zonouz_work/lib/python3.10/site-packages",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/build/test_logger",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/install/test_logger/lib/python3.10/site-packages",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/build/Logger",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/install/Logger/lib/python3.10/site-packages",
+        "/home/factslab-egmc/mocap_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/mocap_ws/build/mocap4r2cli",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2cli/lib/python3.10/site-packages",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_robot_gt_msgs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_marker_viz_srvs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_control_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/build/zonouz_work",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/install/zonouz_work/lib/python3.10/site-packages",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/build/test_logger",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/install/test_logger/lib/python3.10/site-packages",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/build/Logger",
+        "/home/factslab-egmc/zonouz_project/zonouz_ws/install/Logger/lib/python3.10/site-packages",
+        "/home/factslab-egmc/mocap_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/mocap_ws/build/mocap4r2cli",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2cli/lib/python3.10/site-packages",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_robot_gt_msgs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_msgs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_marker_viz_srvs/local/lib/python3.10/dist-packages",
+        "/home/factslab-egmc/mocap_ws/install/mocap4r2_control_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
