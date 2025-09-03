@@ -1,6 +1,6 @@
 build/
 install/
 **/log/
-**.vc.db
+**/.vscode/browse**
 Logger
 test_logger
